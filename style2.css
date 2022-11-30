@@ -1,0 +1,35 @@
+.logo{
+    text-align: center;
+}
+
+.thanksgiving{
+    text-align: center;
+    background-color: pink;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 2px purple solid;
+}
+
+main{
+    width:50%;
+    margin: auto;
+}
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.foto_focaccia img{
+    border-radius: 20px;
+    margin: auto
+}
+
+figcaption{
+    text-align: center;
+}
+
+.featured{
+    border-left: 1px grey solid;
+    padding-left: 20px;
+}
