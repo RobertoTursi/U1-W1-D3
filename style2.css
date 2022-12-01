@@ -8,11 +8,17 @@
     padding-top: 15px;
     padding-bottom: 15px;
     border-top: 2px purple solid;
+    color:rgb(2, 2, 114)
+}
+
+.thanksgiving .secondospan{
+    font-weight: bold;
 }
 
 main{
     width:50%;
     margin: auto;
+    color:rgb(54, 48, 48)
 }
 
 h1{
@@ -27,9 +33,25 @@ h1{
 
 figcaption{
     text-align: center;
+    padding-top: 18px;
+    padding-bottom: 13px;
 }
 
 .featured{
     border-left: 1px grey solid;
     padding-left: 20px;
+    color: orangered;
+}
+
+.ingredienti p{
+    font-weight: bold;
+}
+
+ol li{
+    font-weight: bold;
+}
+
+h3{
+    font-size: 25px;
+    border-top: 2px purple solid;
 }
